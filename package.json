@@ -1,0 +1,12 @@
+{
+  "name": "demo-npx-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx echo-env@1.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
